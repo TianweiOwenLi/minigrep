@@ -1,0 +1,2 @@
+# MiniGrep
+This is an implementation of the exercise "minigrep" in [_The Rust Programming Language, Ch. 12_](https://doc.rust-lang.org/stable/book/ch12-00-an-io-project.html), with minor deviations from the refsol. For more info, consider visit my [repository for rust syntax examples](https://github.com/TianweiOwenLi/rust-syntax-examples)
